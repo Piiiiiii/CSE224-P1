@@ -1,0 +1,19 @@
+package main
+
+import "fmt"
+
+func main() {
+	/*
+	log.SetFlags(log.LstdFlags | log.Lshortfile)
+
+	if len(os.Args) != 3 {
+		log.Fatalf("Usage: %v inputfile outputfile\n", os.Args[0])
+	}
+
+	log.Printf("Sorting %s to %s\n", os.Args[1], os.Args[2])
+
+	 */
+
+	fmt.Println("j")
+	
+}
